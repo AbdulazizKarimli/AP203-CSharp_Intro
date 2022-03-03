@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\p103\P203\P203\bin\Debug\netcoreapp3.1\P203.exe
+C:\Users\HP\Desktop\p103\P203\P203\bin\Debug\netcoreapp3.1\P203.deps.json
+C:\Users\HP\Desktop\p103\P203\P203\bin\Debug\netcoreapp3.1\P203.runtimeconfig.json
+C:\Users\HP\Desktop\p103\P203\P203\bin\Debug\netcoreapp3.1\P203.runtimeconfig.dev.json
+C:\Users\HP\Desktop\p103\P203\P203\bin\Debug\netcoreapp3.1\P203.dll
+C:\Users\HP\Desktop\p103\P203\P203\bin\Debug\netcoreapp3.1\P203.pdb
+C:\Users\HP\Desktop\p103\P203\P203\obj\Debug\netcoreapp3.1\P203.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\p103\P203\P203\obj\Debug\netcoreapp3.1\P203.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\p103\P203\P203\obj\Debug\netcoreapp3.1\P203.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\p103\P203\P203\obj\Debug\netcoreapp3.1\P203.AssemblyInfo.cs
+C:\Users\HP\Desktop\p103\P203\P203\obj\Debug\netcoreapp3.1\P203.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\p103\P203\P203\obj\Debug\netcoreapp3.1\P203.dll
+C:\Users\HP\Desktop\p103\P203\P203\obj\Debug\netcoreapp3.1\P203.pdb
+C:\Users\HP\Desktop\p103\P203\P203\obj\Debug\netcoreapp3.1\P203.genruntimeconfig.cache
